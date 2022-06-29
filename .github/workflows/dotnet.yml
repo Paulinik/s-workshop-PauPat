@@ -58,7 +58,13 @@ jobs:
 
       - name: Extract artifact
         run: tar -xf workshop.tar.gz
-
+      
+      - name: Azure App Service Settings
+        uses: Azure/appservice-settings@v1
+        with:
+          app-name: app-workshop-PauPat
+          # Name of an existing slot other than the production slot. Default value is production
+          app-settings-json: ${{ secrets.APPSETTINGS_JSON }}
       - name: Deploy Web App
         uses: azure/webapps-deploy@v2
         with:
