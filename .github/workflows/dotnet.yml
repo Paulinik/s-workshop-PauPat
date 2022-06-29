@@ -58,7 +58,7 @@ jobs:
 
       - name: Extract artifact
         run: tar -xf workshop.tar.gz
-      
+
       - name: Azure App Service Settings
         uses: Azure/appservice-settings@v1
         with:
