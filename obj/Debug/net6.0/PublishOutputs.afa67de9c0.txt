@@ -1,0 +1,7 @@
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/softeta-workshop-dotnet
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/appsettings.Development.json
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/appsettings.json
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/softeta-workshop-dotnet.dll
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/softeta-workshop-dotnet.deps.json
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/softeta-workshop-dotnet.runtimeconfig.json
+/home/oci/Projects/softeta-workshop/softeta-workshop-dotnet/bin/Debug/net6.0/publish/softeta-workshop-dotnet.pdb
